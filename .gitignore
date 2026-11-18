@@ -9,6 +9,9 @@ venv/
 # 本地运行时设置（包含本机绝对路径 / 窗口尺寸）
 trainer_settings.json
 
+# 本地开发说明（包含本机游戏目录）
+AGENT.md
+
 # 存档备份（包含个人存档数据，不应提交）
 backups/
 *.bak
