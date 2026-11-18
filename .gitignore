@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.python-version
+
+# 本地运行时设置（包含本机绝对路径 / 窗口尺寸）
+trainer_settings.json
+
+# 存档备份（包含个人存档数据，不应提交）
+backups/
+*.bak
+
+# 调试与临时输出
+*.log
+*.tmp
+.trainer-settings-*.tmp
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
